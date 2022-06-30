@@ -1,0 +1,1 @@
+Projetos em python que fiz durante meu primeiro semestre da faculdade.
