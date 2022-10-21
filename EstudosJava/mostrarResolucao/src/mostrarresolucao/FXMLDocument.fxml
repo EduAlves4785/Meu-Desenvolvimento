@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="200" prefWidth="320" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="mostrarresolucao.FXMLDocumentController">
+   <children>
+      <Label fx:id="lblMensagem" alignment="CENTER" layoutX="76.0" layoutY="26.0" prefHeight="74.0" prefWidth="169.0" text="Sua resolução" textFill="#00494d">
+         <font>
+            <Font name="Bookshelf Symbol 7" size="21.0" />
+         </font>
+         <effect>
+            <ColorAdjust />
+         </effect>
+      </Label>
+      <Button fx:id="btnClick" layoutX="88.0" layoutY="127.0" mnemonicParsing="false" onAction="#ativarEvento" prefHeight="40.0" prefWidth="144.0" text="Ver resolução">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
