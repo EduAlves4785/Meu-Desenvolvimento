@@ -7,7 +7,7 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   *(#Bootcamp TQI(Full Stack))
+   * (#Bootcamp TQI(Full Stack))
       * [JavaScript]
       * [React]
       * [Java]
