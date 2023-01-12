@@ -7,12 +7,12 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#Bootcamp TQI(Full Stack))
+   *(#Bootcamp TQI(Full Stack))
       * [JavaScript]
       * [React]
       * [Java]
    * [Conhecimento essencial para Reactjs]
    * [Estudo Fetch API]
-   * [Estudos Java](#como-usar)
+   * [Estudos Java]
    * [Projetos em python]
 <!--te-->
